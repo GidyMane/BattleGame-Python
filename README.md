@@ -4,12 +4,12 @@ Welcome to the Battlegame! This Python-based text/cli game allows you to engage 
 
 ## Author
 
-The game is authored by Lorenah M.
+The game is authored by Gideon Murage.
 
 ## Setup Instructions
 
 Clone the Repository:
-`git clone https://github.com/Skylar-Lorena/battlegame.git`
+`git clone https://github.com/GidyMane/BattleGame-Python.git`
 
 Navigate to the Project Directory:
 `cd battlegame`
@@ -68,7 +68,7 @@ Run the Game:
 
 ## MIT License
 
-Copyright (c) 2023 Lorenah M.
+Copyright (c) 2023 Gideon Murage.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
